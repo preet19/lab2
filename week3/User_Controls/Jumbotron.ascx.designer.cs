@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP2007_S2016_Lesson3B.User_Controls
-{
-
-
-    public partial class Jumbotron
-    {
-
+namespace COMP2007_S2016_Lesson3B.User_Controls {
+    
+    
+    public partial class Jumbotron {
+        
         /// <summary>
         /// content control.
         /// </summary>
